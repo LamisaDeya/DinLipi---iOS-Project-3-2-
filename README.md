@@ -23,8 +23,7 @@ DinLipi is an iOS application designed to simplify personal organization by comb
 **Backend:** Firebase Database for storing user data.  
 **APIs:** Weather data is fetched using the WeatherAPI.  
 
-## Methodology
-# Major components
+## Major components
 **CalendarManager:** Manages event creation, scheduling, and prioritization of events.  
 **WeatherAPI Integration:** Fetches real-time weather data and displays it dynamically within the app.  
 **NoteManager:** Allows users to create, save, edit, and delete notes.  
