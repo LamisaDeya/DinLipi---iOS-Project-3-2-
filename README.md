@@ -3,11 +3,12 @@
 DinLipi is an iOS application designed to simplify personal organization by combining several key features such as calendar management, weather updates, to-do lists, note-taking, and memory storage into one unified app. It is an intuitive, easy-to-use application aimed at helping users manage events, tasks, and memories efficiently.
 
 ## Features
-**Calendar Management:** Schedule events and manage priorities.
-**Weather Updates:** Integrates real-time weather updates with a visually appealing UI.
-**To-Do Lists:** Create and track tasks with daily progress updates.
-**Note-Taking:** Add, save, and delete notes easily.
+**Calendar Management:** Schedule events and manage priorities.  
+**Weather Updates:** Integrates real-time weather updates with a visually appealing UI.  
+**To-Do Lists:** Create and track tasks with daily progress updates.  
+**Note-Taking:** Add, save, and delete notes easily.  
 **Memory Storage:** Save memories with a scrapbook-like interface and view memories with the "on this day" feature.
+
 ## Project Objectives
 1.Provide a user-friendly interface for organizing daily activities.
 2.Prioritize events and tasks with visual cues.
